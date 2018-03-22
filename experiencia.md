@@ -1,3 +1,0 @@
-# Experiència 
-
-aqui la experiencia
