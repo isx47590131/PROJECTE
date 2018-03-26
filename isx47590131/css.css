@@ -11,12 +11,3 @@ p{ text-align: justify;}
 footer{ border:1px solid black;display: flex;flex-wrap: wrap; transition: all 4s}
 footer img{max-width: 70px;margin-left: 300px; transition: all 0.5s}
 footer img:hover{transform: rotate(20deg);}
-#face{animation: mover 4s;position: absolute;}
-
-@keyframes mover{
-	0%{left: -20%;}
-
-	100%{left: 30%;}
-
-
-}
