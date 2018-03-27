@@ -3,11 +3,12 @@ header{text-align: center;border: 3px black solid;width: 27%;margin: auto;border
 article{float: left; width: 60%; }
 nav{float:left;}
 #izq img {max-width: 150px;float: left;}
-#izq<p {float: right; width: 60%;}
+#izq <p {float: right; width: 60%;}
 p{ text-align: justify;}
-#izq{padding:50px;border:1px solid black;}
-#izq2<p {float: right; width: 60%;}
+#izq{padding:70px;border:1px solid black;}
+#izq2 <p {float: right; width: 60%;}
 #izq2{padding:50px;border:1px solid black;}
+ul{padding: 50px;border: 1px solid black}
 footer{ border:1px solid black;display: flex;flex-wrap: wrap; transition: all 4s}
 footer img{max-width: 70px;margin-left: 300px; transition: all 0.5s}
 footer img:hover{transform: rotate(20deg);}
